@@ -123,7 +123,7 @@ Na próxima tela, dê um nome para seu Bucket S3 e mantenha as demais configura�
 ![S3 02](./assets/s3_02.png)
 \
 \
-Para garantir que nossos objetos armazenados no Bucket S3 não sejam públicos, vefifique se a opção *"Block all public access"* está marcada.\
+Para garantir que nossos objetos armazenados no Bucket S3 não sejam públicos, verifique se a opção *"Block all public access"* está marcada.\
 \
 ![S3 03](./assets/s3_03.png)
 \
